@@ -1,10 +1,9 @@
-### Hi there 👋
-
 <!--
 **kiran-kadam911/kiran-kadam911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 [![KiranKadam](https://github.com/kiran-kadam911/kiran-kadam911/blob/master/james-harrison-vpOeXr5wmR4-unsplash.jpg)](https://twitter.com/kirank911)
 
+### Hi there 👋
 - 🔭 I’m currently working on Drupal Front-end
 - 🌱 I’m currently learning React
 - 💬 Ask me about HTML, CSS, jQuery, Drupal 8/7, Acquia Cohesion
