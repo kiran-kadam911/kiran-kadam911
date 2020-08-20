@@ -6,7 +6,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Drupal Front-end
 - 🌱 I’m currently learning React
-- 💬 Ask me about HTML, CSS, jQuery, Drupal 8/7, Acquia Cohesion
+- 💬 Ask me about HTML, CSS, jQuery, CSS Preprocessor(SASS, LESS) Drupal 8/7, Acquia Cohesion
 - 📫 How to reach me twitter.com/kirank911
-- 😄 Pronouns: He / Him
-- ⚡ Fun fact: Behind the world
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Behind the world 🌍
